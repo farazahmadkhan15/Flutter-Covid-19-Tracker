@@ -1,0 +1,4 @@
+#Thu May 27 14:25:18 PKT 2021
+base.0=/Users/eapple/Desktop/covid_tracker/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ansar/covid_tracker/MainActivity.java
+ com.ansar.covid_tracker.MainActivity
+com/ansar/covid_tracker/BuildConfig.java
+ com.ansar.covid_tracker.BuildConfig
